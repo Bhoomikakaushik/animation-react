@@ -1,0 +1,15 @@
+#image {
+    height:500px;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    height: 1000px;
+}
+
+#heading{
+    color: white;
+    position:absolute;
+    margin-left: 30%;
+}
